@@ -1,0 +1,38 @@
+298  lsblk
+  299  clear
+  300  fdisk
+  301  fdisk /dev/sdb
+  302  fldisk /dev/sdb
+  303  fldisk
+  304  fdisk
+  305  fdisk --help
+  306  sudo apt install lvm2
+  307  clear
+  308  cd
+  309  lsblk
+  310  cd
+  311  fldisk
+  312  fdisk
+  313  fdisk sdb
+  314  lsblk
+  315  fdisk /dev/sdb
+  316  sudo fdisk /dev/sdb
+  317  sudo apt install lvm2
+  318  sudo fdisk dev/sdb
+  319  n
+  320  sudo fdisk /dev/sdb
+  321  cd
+  322  sudo fdisk /dev/sdc
+  323  sudo fdisk /dev/sdb
+  324  sudo fdisk /dev/sdc
+  325  sudo pvcreate /dev/sdb1 /dev/sdb2 /dev/sdc1
+  326  sudo vgcreate salvas /dev/sdb2 /dev/sdc1
+  327  sudo fdisk /dev/sdc
+  328  sudo vgcreate www /dev/sdc2
+  329  sudo vdextend www /dev/sdc3
+  330  sudo vgdextend www /dev/sdc3
+  331  sudo vgextend www /dev/sdc3
+  332  cat history nano history.txt
+  333  touch history.txt
+  334  history
+
